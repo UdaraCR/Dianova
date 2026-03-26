@@ -144,6 +144,10 @@
                 padding: 20px;
             }
         }
+
+        .dashboard-card .card-text {
+            min-height: 220px;
+        }
     </style>
 </head>
 <body>
